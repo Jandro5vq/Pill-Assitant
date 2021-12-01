@@ -23,7 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
+  <a>![PillAssistantmount](https://user-images.githubusercontent.com/22602325/144252344-56897a6e-5c9b-45a5-8932-fcff0cd0e8d6.png)
+
     <img src="images/AP_Logo_tras.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -64,9 +65,10 @@
 ## About The Project
 <div align="center">
   <img src="images/PillAssistantmount.png" alt="Render" width="700" height="520">
-  <img src="images/PillAssistantmount.gif" alt="Render" width="400" height="600">
 </div>
-
+<div align="center">
+  <img src="images/PillAssistantmount.gif" alt="Render" width="300" height="300">
+</div>
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
