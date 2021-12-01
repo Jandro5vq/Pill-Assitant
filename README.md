@@ -149,7 +149,7 @@ Alejandro Vazquez - [@Ale_v_q](https://twitter.com/ale_v_q)
 
 Email - [Alejandro.v.quintano@gmail.com](mailto:Alejandro.v.quintano@gmail.com)
 
-Project Link: [https://github.com/Jandro5vq/Pill-Assistant](https://github.com/Jandro5vq/Pill-Assistant)
+Project Link: [https://github.com/Jandro5vq/Pill-Assistant](https://github.com/Jandro5vq/Pill-Assitant)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
