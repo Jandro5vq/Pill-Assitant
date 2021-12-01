@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Alejandro Vazquez - [@Ale_v_q](https://twitter.com/ale_v_q)
 
-Email - [Alejandro.v.quintano@gmail.com](Alejandro.v.quintano@gmail.com)
+Email - [Alejandro.v.quintano@gmail.com](mailto:Alejandro.v.quintano@gmail.com)
 
 Project Link: [https://github.com/Jandro5vq/Pill-Assistant](https://github.com/Jandro5vq/Pill-Assistant)
 
