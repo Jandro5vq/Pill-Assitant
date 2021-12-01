@@ -64,6 +64,7 @@
 ## About The Project
 <div align="center">
   <img src="images/PillAssistantmount.png" alt="Render" width="700" height="520">
+  <img src="images/PillAssistantmount.gif" alt="Render" width="400" height="600">
 </div>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
