@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a>
     <img src="images/AP_Logo_tras.png" alt="Logo" width="80" height="80">
   </a>
 
