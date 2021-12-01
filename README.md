@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/AP_Logo_tras.png" alt="Logo" width="80" height="80">
+    <img src="images/AP_Logo_tras.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Pill Assitant</h3>
