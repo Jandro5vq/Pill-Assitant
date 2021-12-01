@@ -62,8 +62,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <img src="images/PillAssistantmount.png" alt="Render" width="700" height="520">
+</div>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -147,8 +148,3 @@ Email - [Alejandro.v.quintano@gmail.com](mailto:Alejandro.v.quintano@gmail.com)
 Project Link: [https://github.com/Jandro5vq/Pill-Assistant](https://github.com/Jandro5vq/Pill-Assitant)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/PillAssistantmounte.png
-
