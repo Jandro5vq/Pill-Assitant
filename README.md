@@ -23,13 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>![PillAssistantmount](https://user-images.githubusercontent.com/22602325/144252344-56897a6e-5c9b-45a5-8932-fcff0cd0e8d6.png)
-
-    <img src="images/AP_Logo_tras.png" alt="Logo" width="100" height="100">
-  </a>
-
+  <img src="images/AP_Logo_tras.png" alt="Logo" width="100" height="100">
   <h3 align="center">Pill Assitant</h3>
-
   <p align="center">
     An assistant that helps elderly people take their dayli pills
     
