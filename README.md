@@ -148,5 +148,7 @@ Project Link: [https://github.com/Jandro5vq/Pill-Assistant](https://github.com/J
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: images/screenshot.png
 
