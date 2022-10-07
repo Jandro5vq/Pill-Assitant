@@ -29,9 +29,8 @@
     An assistant that helps elderly people take their dayli pills
     
   </p>
+  <img src="images/PillAssistantmount.png" alt="Logo" width="600">
 </div>
-
-
 
 <!-- CONTACT -->
 ## Contact
